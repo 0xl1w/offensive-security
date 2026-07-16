@@ -10,5 +10,5 @@ This repository contains my practical materials related to penetration testing, 
 
 ## Contact
 
-GitHub: igzyn (https://github.com/xC0R3)  
-Email: theCor3@protonmail.com
+GitHub: igzyn (https://github.com/0xl1w)  
+Email: musayev.huseyn@outlook.com
